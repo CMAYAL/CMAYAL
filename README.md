@@ -31,7 +31,10 @@ Ingeniero Informático con un posgrado en Administración de la Información y B
 - Orientado al trabajo en equipo y a la resolución de problemas.
 - Aspiraciones de seguir aplicando mis conocimientos para generar valor a través del análisis y explotación de datos.
 
-## Contacto
+## Experiencia Laboral
 
-- **Linkedin:** (https://www.linkedin.com/in/carlos-andres-maya-b474415a/)  
+- **Linkedin:** (https://www.linkedin.com/in/carlos-andres-maya-b474415a/)
+  
+## Contacto
+ 
 - **Email:** (karlosandres27@gmail.com)
