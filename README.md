@@ -42,3 +42,4 @@ Ingeniero Informático con un posgrado en Administración de la Información y B
 ## Contacto
  
 - **Email:** (karlosandres27@gmail.com)
+- **Telefono:** (+57-3104282937)
