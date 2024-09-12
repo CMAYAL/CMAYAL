@@ -9,8 +9,7 @@ Ingeniero Informático con un posgrado en Administración de la Información y B
 ### Estrategias de Datos y Almacenes de Datos
 - **Certificación proyecto BI**: Certificación modelo de datos fisico y logico y procesos de ETL para los casos de de uso de (Credito, Cdts, Ahorro, Seguros y Clientes).
 - **Diseño e implementación casos de uso (Planeación Financiera)**: Definición de modelos de datos para consolidar estados financieros, siguiendo estándares de desarrollo de bases de datos, diseño y desarrollo de ETL.
-- **Diseño e implementación de modelos de datos**: Definición de modelos de datos acorde al nivel de granularidad requerido, siguiendo estándares de desarrollo de bases de datos.
-- **Arquitectura de DataWarehouse (Proyecto SIAR)**: Desarrollo de estructuras de datos, modelado físico y lógico, y la integración de todos los riesgos de la entidad financiera.
+- **Diseño e implementación (Proyecto SIAR)**: Desarrollo de estructuras de datos, modelado físico y lógico, diseño y desarrollo de ETL para la integración de todos los riesgos de la entidad financiera (Riesgo de credito, Riego de liquides y mercado y Riesgo Operativo).
 - **Normalización de datos para reporting**: Implementación de sistemas de visualización y análisis de datos para facilitar el Business Intelligence.
 - **Validación y certificación de modelos**: Garantía de la precisión y consistencia de los modelos lógicos y físicos durante el desarrollo e implementación del DataWarehouse.
 - **Implementación sistema de seguridad (roles Power BI)**: Definir e implementar niveles de seguridad de acuerdo al perfil organizaciónal,  para vizualización de indicadores (KPI) controlada. 
