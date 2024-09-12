@@ -21,7 +21,7 @@ Ingeniero Informático con un posgrado en Administración de la Información y B
 - **Inteligencia de Negocio**: Análisis de datos, visualización y reporting para toma de decisiones (**POWER BI**).
 - **Bases de Datos**: AS400 DB2 BANTOTAL, SQL SERVER, ORACLE, MONGODB.
 - **Explotación de Datos**: SPPS MODELER, PYTHON, RSTUDIO.
-- **Lenguales de Programación**: JAVA SPRING BOOT PYTHON.
+- **Lenguales de Programación**: JAVA (FRAMEWORK SPRING BOOT) PYTHON.
 - **Cloud Computing**: AWS (Amazon Web Services).
 
 
