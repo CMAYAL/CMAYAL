@@ -16,11 +16,11 @@ Ingeniero Informático con un posgrado en Administración de la Información y B
 
 ### Habilidades Técnicas
 
-- **Bases de Datos**: S400 DB2, BANTOTAL
-- **Procesos ETL**: Diseño, implementación y optimización de procesos de extracción, transformación y carga de datos.
-- **Inteligencia de Negocio**: Análisis de datos, visualización y reporting para toma de decisiones.
+- **Bases de Datos**: AS400 DB2 BANTOTAL, SQL SERVER, ORACLE, MONGODB.
+- **Procesos ETL**: Diseño, implementación y optimización de procesos de extracción, transformación y carga de datos (**PENTAHO, PYTHON**)
+- **Inteligencia de Negocio**: Análisis de datos, visualización y reporting para toma de decisiones (**POWER BI**)
 - **Cloud Computing**: AWS (Amazon Web Services)
-- **Metodologías Ágiles**: Gestión de proyectos y desarrollo basado en metodologías como Scrum y Kanban.
+- **Metodologías Ágiles**: Metodología DMBOOK, guiar de manera eficiente el proceso de desarrollo e implementación de soluciones de BI y Data Warehousing.
 
 ### Aptitudes Personales
 
