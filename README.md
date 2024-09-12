@@ -16,11 +16,14 @@ Ingeniero Informático con un posgrado en Administración de la Información y B
 
 ### Habilidades Técnicas
 
-- **Bases de Datos**: AS400 DB2 BANTOTAL, SQL SERVER, ORACLE, MONGODB.
-- **Procesos ETL**: Diseño, implementación y optimización de procesos de extracción, transformación y carga de datos (**PENTAHO, PYTHON**)
-- **Inteligencia de Negocio**: Análisis de datos, visualización y reporting para toma de decisiones (**POWER BI**)
-- **Cloud Computing**: AWS (Amazon Web Services)
 - **Metodologías Ágiles**: Metodología DMBOOK, guiar de manera eficiente el proceso de desarrollo e implementación de soluciones de BI y Data Warehousing.
+- **Procesos ETL**: Diseño, implementación y optimización de procesos de extracción, transformación y carga de datos (**PENTAHO, PYTHON**).
+- **Inteligencia de Negocio**: Análisis de datos, visualización y reporting para toma de decisiones (**POWER BI**).
+- **Bases de Datos**: AS400 DB2 BANTOTAL, SQL SERVER, ORACLE, MONGODB.
+- **Explotación de Datos**: SPPS MODELER, PYTHON, RSTUDIO.
+- **Lenguales de Programación**: JAVA SPRING BOOT PYTHON.
+- **Cloud Computing**: AWS (Amazon Web Services).
+
 
 ### Aptitudes Personales
 
