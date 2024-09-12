@@ -11,7 +11,7 @@ Ingeniero Informático con un posgrado en Administración de la Información y B
 ## Experiencia Destacada
 
 ### Estrategias de Datos y Almacenes de Datos
-- **Certificación proyecto BI**: Certificación modelo de datos fisico y logico y procesos de ETL para los casos de de uso de (Credito, Cdts, Ahorro, Seguros y Clientes).
+- **Certificación implemantación proyecto BI**: Certificación modelo de datos fisico y logico, procesos de ETL, calidad y consistencia de datos para los casos de de uso de (Creditos, Cdts, Ahorros, Seguros y Clientes).
 - **Diseño e implementación casos de uso (Planeación Financiera)**: Definición de modelos de datos para consolidar estados financieros, siguiendo estándares de desarrollo de bases de datos, diseño y desarrollo de ETL.
 - **Diseño e implementación (Proyecto SIAR)**: Desarrollo de estructuras de datos, modelado físico y lógico, diseño y desarrollo de ETL para la integración de todos los riesgos de la entidad financiera (Riesgo de credito, Riego de liquides y mercado y Riesgo Operativo).
 - **Normalización de datos para reporting**: Implementación de sistemas de visualización y análisis de datos para facilitar el Business Intelligence.
