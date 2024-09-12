@@ -30,5 +30,5 @@ Ingeniero Informático con un posgrado en Administración de la Información y B
 
 ## Contacto
 
-- [LinkedIn](https://www.linkedin.com)  
-- Email: [tuemail@example.com](mailto:tuemail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/carlos-andres-maya-b474415a/)  
+- Email: [tuemail@example.com](karlosandres27@gmail.com)
