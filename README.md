@@ -6,7 +6,11 @@
 
 ## Sobre mí
 
-Ingeniero Informático con un posgrado en Administración de la Información y Bases de Datos, con más de 8 años de experiencia en el sector bancario. Experto en el manejo avanzado de bases de datos como S400 DB2 y BANTOTAL, aplicando metodologías ágiles para la explotación de datos tanto estructurados como no estructurados. Mis principales áreas de experiencia incluyen procesos de ETL, inteligencia de negocio y análisis de datos en entornos on premise.
+Ingeniero Informático con posgrado en Administración de la Información y Bases de Datos, con más de 10 años de experiencia en áreas de datos, principalmente en el sector financiero y bancario, trabajando con dominios como créditos, captaciones, seguros y gestión de clientes.
+
+A lo largo de mi trayectoria he participado en el diseño, construcción y evolución de arquitecturas de datos, combinando prácticas de ingeniería de datos con una fuerte orientación al negocio. Cuento con experiencia en la implementación de data warehouses y data marts, modelado dimensional y desarrollo de procesos ETL/ELT para la integración y transformación de datos estructurados y no estructurados.
+
+He trabajado en iniciativas de inteligencia de negocio y analítica, asegurando la calidad, consistencia y disponibilidad de la información, así como en la definición y aplicación de lineamientos de gobierno de datos. Mi experiencia incluye el trabajo bajo metodologías ágiles (Scrum y Kanban), colaborando con equipos técnicos y funcionales para entregar soluciones escalables y alineadas con las necesidades del negocio.
 
 ## Experiencia Destacada
 
